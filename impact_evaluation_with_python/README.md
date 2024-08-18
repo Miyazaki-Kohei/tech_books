@@ -1,0 +1,2 @@
+pythonで学ぶ効果検証入門
+https://github.com/HirotakeIto/intro_to_impact_evaluation_with_python/tree/main
